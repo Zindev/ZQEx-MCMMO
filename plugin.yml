@@ -1,0 +1,6 @@
+name: ZQEx-MCMMO
+author: Zindev
+version: 0.1
+description: ZQEx-MCMMO by Zindev
+depend: [ZQuest,mcMMO]
+main: me.Zindev.zqexmcm.Main
